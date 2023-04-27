@@ -16,7 +16,7 @@ import Actr from 'actr'
 const tracker = new Actr()
 
 // Call the track method whenever the user performs an activity
-tracker.track('clicked_button')
+tracker.track({ name: 'clicked_button' })
 
 // Check if the user is idle
 if (tracker.isIdle) {
