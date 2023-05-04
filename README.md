@@ -1,6 +1,6 @@
 # ActivityTracker
 
-> ActivityTracker 是一个 TypeScript 类，用于监视用户活动并检测 Web 应用程序中的空闲状态。
+> 用于监视用户活动并检测应用程序中的空闲状态。
 
 #### Installtion
 
