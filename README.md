@@ -1,6 +1,6 @@
 # ActivityTracker
 
-> ActivityTracker 是一个 TypeScript 类，用于监视用户活动并检测 Web 应用程序中的空闲状态。它记录指定类型的用户交互并跟踪每个事件的时间戳。该类使用时间阈值来确定用户是否空闲，基于自上次交互以来经过的时间来判断。这对于实现自动注销、会话超时或不活动警报等功能非常有用。
+> ActivityTracker 是一个 TypeScript 类，用于监视用户活动并检测 Web 应用程序中的空闲状态。
 
 #### Installtion
 
