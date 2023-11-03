@@ -1,0 +1,10 @@
+{
+  "exclude": ["node_modules", "dist"],
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "es6",
+    "strict": true,
+    "declaration": true,
+    "outDir": "./dist/"
+  }
+}
